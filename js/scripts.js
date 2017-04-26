@@ -6,7 +6,7 @@ var a = prompt('dodaj długość')
 		{alert('to liczba');}
 var h = prompt('podaj wysokość')
 	if 
-		(isNaN(a)) {alert('to nie liczba');}
+		(isNaN(h)) {alert('to nie liczba');}
 	else
 		{alert('to liczba');}
 var triangleArea = a*h/2

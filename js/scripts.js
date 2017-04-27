@@ -14,8 +14,9 @@ if (isNaN(b)) {
 } else {
 	alert('to liczba');
 }
-triangleArea = (a*h/2);
-alert('Pole trójkąta o podstawie a: ' + a + ' i wysokości h: ' + h + ' wynosi: ' + triangleArea);
+triangleArea = (a*b/2);
+
+//alert('Pole trójkąta o podstawie a: ' + a + ' i wysokości h: ' + h + ' wynosi: ' + triangleArea);
 
 
 console.log('Pole trójkąta o podstawie a: ' + a + ' i wysokości h: ' + h + ' wynosi: ' + triangleArea);
